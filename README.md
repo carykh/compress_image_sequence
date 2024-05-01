@@ -1,6 +1,6 @@
 Searches the specified folder for image sequences, then uses ffmpeg to convert them into .mp4's, and then (optionally) deletes the original images.
 
-Usage:
+Usage: Type this into the command prompt:
 
 ```
 python compress.py path/to/folder
